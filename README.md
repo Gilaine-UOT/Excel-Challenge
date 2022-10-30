@@ -1,7 +1,7 @@
 # Excel-Challenge
 Analyze the Excel sample project data and try to uncover market trends
 
-##Overview of Project
+## Overview of Project
 
 
 This project referring to Module 1 is developed on an Excel software base related to the Bootcamp Data Analytics from the University of Toronto. The goal correspond of analyzing the data with a numerous of crowdfunding projects. All material regarding the findings and data analysis related to this project will be available on Github for public view.
